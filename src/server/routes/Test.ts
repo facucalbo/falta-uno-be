@@ -1,4 +1,5 @@
 import { Router } from "express";
+import { ExampleModel } from "../../models/example";
 
  export class Test {
     public router: Router
